@@ -10,6 +10,7 @@ int main (void)
   for ( int i = 0 ; i < 10 ; i++)
    {
      sum = array[i];
+     sum = sum
    }
    printf("sum = %d",sum);
 
