@@ -9,7 +9,7 @@ int main (void)
     for (int i = 0 , i < 10 , i++)
     {
         printf("");
-        g = string *strin i ;
+        string = string * i ;
     }
 
 
