@@ -3,7 +3,14 @@
 
 int main (void)
 {
-    string = get_string("The number : ");
-    i
+    int i;
+    string = get_string("Enter a number : ");
+
+    for (int i = 0 , i < 10 , i++)
+    {
+        printf("");
+        g = string *strin i ;
+    }
+
 
 }
