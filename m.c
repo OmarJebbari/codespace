@@ -4,9 +4,5 @@
 
 int main (void)
 {
-  char *c = get_string("Enter the drgee in Celsius : ");
-  double = ;
-
-
-  return 0;
+  double
 }
