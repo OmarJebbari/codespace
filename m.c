@@ -3,9 +3,7 @@
 
 int main (void)
 {
-    string s = get_string("s:");
-    string t = get_string("t:");
+    string = get_string("The number : ");
+    i
 
-    printf("%p\n",s);
-    printf("%p\n",t);
 }
