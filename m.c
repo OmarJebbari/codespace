@@ -9,8 +9,9 @@ int main (void)
 
   for ( int i = 0 ; i < 9 ; i++)
    {
-     sum = array[i];
-     
+     sum = array[i] + array[i+1];
+     sum
+
    }
    printf("sum = %d",sum);
 
